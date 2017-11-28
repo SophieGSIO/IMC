@@ -10,6 +10,7 @@ namespace IMC
     {
         static void Main(string[] args)
         {
+            // declaration des variables
             int poids;
             double tailleEnCm, tailleEnM, imc;
             string prenom;
